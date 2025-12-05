@@ -28,5 +28,3 @@ I designed and developed all **Product Series Pages** including layouts, icons, 
 | Graham Bar Series | 🟩 Done | New icons & UI enhancements |
 | Burger Series | 🟩 Done | Adjusted text alignment |
 | Fries Series | 🟩 Done | Updated star rating UI |
-
-
